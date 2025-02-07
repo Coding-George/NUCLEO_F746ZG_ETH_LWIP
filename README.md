@@ -17,3 +17,7 @@ The primary function of this project is to send JSON data to a server over a TCP
 - **STM32 Nucleo-F746ZG** or any compatible STM32 board.
 - **Ethernet** connected to the network.
 - **UART (Serial)** connection for debug output.
+
+
+https://github.com/user-attachments/assets/2214b6bf-6076-42c2-b275-5237941b47cd
+
